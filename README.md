@@ -7,6 +7,9 @@ Samsung firmware versions).
 
 ### ➡️ [Download the latest version](https://github.com/EmreyO-crtl/twrp-sm-x200/releases/latest)
 
+💬 Discussion, questions and bug reports:
+[XDA thread](https://xdaforums.com/t/recovery-unofficial-twrp-for-galaxy-tab-a8-sm-x200-touch-mtp-stays-installed-no-bootloop-on-stock.4807906/)
+
 ## Why these builds
 
 Other TWRP builds for this tablet often bootloop the stock Samsung OS (modified vbmeta,
